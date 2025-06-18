@@ -9,7 +9,7 @@ const Computers = () => {
   return (
     <>
       <div className="proTitle">
-        <h2>Computers</h2>
+        <h1>Computers</h1>
       </div>
       <div className="proSection">
       {firstFiveImages.map((item) => {
